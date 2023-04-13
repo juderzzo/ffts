@@ -1,0 +1,14 @@
+# Object files
+*.o
+
+# Executables
+a.out
+
+# Text editor files
+*~
+*.swp
+*.swo
+
+# Ignore build/ and dist/ directories
+/build
+/dist
